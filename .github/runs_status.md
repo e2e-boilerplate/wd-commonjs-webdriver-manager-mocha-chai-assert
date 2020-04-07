@@ -1,0 +1,32 @@
+| No  | Date           | Build                                                                                                                                                                          |
+| :-- | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 168 | 02/04/20 23:30 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/69556681)         |
+| 154 | 29/03/20 16:16 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/66008031)         |
+| 155 | 29/03/20 16:53 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/66020330) |
+| 160 | 30/03/20 22:23 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/67029563)         |
+| 156 | 29/03/20 19:22 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/66081839)         |
+| 152 | 29/03/20 07:06 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/65778802) |
+| 161 | 31/03/20 22:22 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/67891020)         |
+| 171 | 02/04/20 23:57 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/69563389)         |
+| 172 | 03/04/20 00:17 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/69575075)         |
+| 164 | 02/04/20 21:14 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/69500594)         |
+| 159 | 29/03/20 22:44 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/66166781)         |
+| 169 | 02/04/20 23:32 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/69558944) |
+| 174 | 03/04/20 21:30 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/70303946)         |
+| 167 | 02/04/20 23:12 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/69551292) |
+| 150 | 29/03/20 00:24 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/65636366) |
+| 157 | 29/03/20 21:35 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/66140769)         |
+| 166 | 02/04/20 22:24 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/69530628) |
+| 170 | 02/04/20 23:47 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/69561509)         |
+| 158 | 29/03/20 21:46 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/66143490)         |
+| 153 | 29/03/20 07:24 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/65786218)         |
+| 162 | 01/04/20 23:24 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/68743228) |
+| 146 | 28/03/20 19:17 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/65521255)         |
+| 175 | 03/04/20 21:57 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/70310418) |
+| 148 | 28/03/20 20:15 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/65545029)         |
+| 149 | 28/03/20 22:23 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/65596081)         |
+| 173 | 03/04/20 21:24 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/70302368)         |
+| 147 | 28/03/20 20:07 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/65533162) |
+| 165 | 02/04/20 21:37 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/69506475)         |
+| 163 | 02/04/20 19:36 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/69444269)         |
+| 151 | 29/03/20 01:39 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should/actions/runs/65660753)         |
