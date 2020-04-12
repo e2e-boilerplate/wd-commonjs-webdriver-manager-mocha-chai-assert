@@ -7,6 +7,6 @@
 | /e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-assert/actions/runs/72687472 | 1     | 1       |
 | /e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-assert/actions/runs/72769671 | 1     | 1       |
 | /e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-assert/actions/runs/72771177 | 1     | 1       |
+| /e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-assert/pull/1                | 1     | 1       |
 | /e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-assert/runs/567532358        | 1     | 1       |
 | /e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-assert/runs/567844713        | 1     | 1       |
-| /e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-assert/runs/567851228        | 1     | 1       |
