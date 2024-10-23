@@ -4,7 +4,7 @@
     "url": "https://github.com/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-assert/issues"
   },
   "dependencies": {
-    "chai": "4.3.4",
+    "chai": "5.1.2",
     "chai-as-promised": "7.1.1",
     "mocha": "8.4.0",
     "wd": "1.14.0",
